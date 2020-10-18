@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://exqule.github.io</id>
     <title>Exqule Forever</title>
-    <updated>2020-10-18T14:26:40.946Z</updated>
+    <updated>2020-10-18T14:35:23.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://exqule.github.io"/>
     <link rel="self" href="https://exqule.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://exqule.github.io/images/avatar.png</logo>
     <icon>https://exqule.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Exqule Forever</rights>
+    <entry>
+        <title type="html"><![CDATA[2020/10/18 随笔]]></title>
+        <id>https://exqule.github.io/20201018-essay/</id>
+        <link href="https://exqule.github.io/20201018-essay/">
+        </link>
+        <updated>2020-10-18T14:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NOI2018] 归程]]></title>
         <id>https://exqule.github.io/NOI2018-Return/</id>
@@ -102,12 +109,5 @@
         <content type="html"><![CDATA[<h2 id="20201014-随笔">2020/10/14 随笔</h2>
 <p>上午的训练赛挂了很多分。。</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARC068 写题记录]]></title>
-        <id>https://exqule.github.io/AtCoder-Record-ARC068/</id>
-        <link href="https://exqule.github.io/AtCoder-Record-ARC068/">
-        </link>
-        <updated>2020-10-14T15:00:00.000Z</updated>
     </entry>
 </feed>
