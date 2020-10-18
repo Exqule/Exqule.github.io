@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://exqule.github.io</id>
     <title>Exqule Forever</title>
-    <updated>2020-10-18T02:46:09.364Z</updated>
+    <updated>2020-10-18T06:42:31.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://exqule.github.io"/>
     <link rel="self" href="https://exqule.github.io/atom.xml"/>
@@ -15,21 +15,21 @@
         <id>https://exqule.github.io/20201017-essay/</id>
         <link href="https://exqule.github.io/20201017-essay/">
         </link>
-        <updated>2020-10-18T02:41:22.000Z</updated>
+        <updated>2020-10-17T15:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020/10/16 随笔]]></title>
         <id>https://exqule.github.io/20201016-essay/</id>
         <link href="https://exqule.github.io/20201016-essay/">
         </link>
-        <updated>2020-10-18T02:38:59.000Z</updated>
+        <updated>2020-10-16T15:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020/10/15 随笔]]></title>
         <id>https://exqule.github.io/20201015-essay/</id>
         <link href="https://exqule.github.io/20201015-essay/">
         </link>
-        <updated>2020-10-18T02:37:02.000Z</updated>
+        <updated>2020-10-15T15:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ARC067 写题记录]]></title>
