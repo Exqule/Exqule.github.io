@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://exqule.github.io</id>
     <title>Exqule Forever</title>
-    <updated>2020-10-18T14:35:23.783Z</updated>
+    <updated>2020-10-19T15:41:02.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://exqule.github.io"/>
     <link rel="self" href="https://exqule.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://exqule.github.io/images/avatar.png</logo>
     <icon>https://exqule.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Exqule Forever</rights>
+    <entry>
+        <title type="html"><![CDATA[P4899 [IOI2018] werewolf 狼人]]></title>
+        <id>https://exqule.github.io/IOI2018-werewolf/</id>
+        <link href="https://exqule.github.io/IOI2018-werewolf/">
+        </link>
+        <updated>2020-10-19T15:04:11.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020/10/18 随笔]]></title>
         <id>https://exqule.github.io/20201018-essay/</id>
@@ -95,19 +102,6 @@
 <h4 id="meaning">Meaning</h4>
 <p>共有 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span> 次操作。每次操作有 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>p</mi><mi>i</mi></msub></mrow><annotation encoding="application/x-tex">p_i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord"><span class="mord mathdefault">p</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> 的概率在当前位置填 1，否则填 0。</p>
 <p>一串极长全 1 子串 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi></mrow><annotation encoding="application/x-tex">s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">s</span></span></span></span> 的贡献为 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">∣</mi><mi>s</mi><msup><mi mathvariant="normal">∣</mi><mn>3</mn></msup></mrow><annotation encoding="application/x-tex">|s|^3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord mathdefault">s</span><span class="mord"><span class="mord">∣</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>，求期望贡献。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020/10/14 随笔]]></title>
-        <id>https://exqule.github.io/20201014-essay/</id>
-        <link href="https://exqule.github.io/20201014-essay/">
-        </link>
-        <updated>2020-10-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="20201014-随笔">2020/10/14 随笔</h2>
-<p>上午的训练赛挂了很多分。。</p>
-]]></summary>
-        <content type="html"><![CDATA[<h2 id="20201014-随笔">2020/10/14 随笔</h2>
-<p>上午的训练赛挂了很多分。。</p>
 ]]></content>
     </entry>
 </feed>
